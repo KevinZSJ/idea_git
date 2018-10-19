@@ -6,7 +6,7 @@ package com.baizhi.test;
 public class A {
     public static void main(String[] args) {
         System.out.println("呵呵");
-        System.out.println("刘时勋 智障");
+        System.out.println("呵呵");
 
     }
 }
